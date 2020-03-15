@@ -6,3 +6,6 @@ LeetCode刷题训练
   2. [两个有序数组的中位数](array/两个有序数组的中位数.md)
   3. 
 
+- 有趣的题目
+  1. [LRU Cache](funny/LRU缓存.md)
+  2. 
