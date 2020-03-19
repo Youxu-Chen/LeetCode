@@ -16,5 +16,4 @@ LeetCode刷题训练
   1. [岛屿数目与深度遍历](grid/岛屿数目与图的深度遍历.md)
 - 有趣的题目
   1. [LRU Cache](funny/LRU缓存.md)
-  2. 
-
+  2. [接雨水](funny/接雨水.md)
