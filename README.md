@@ -19,4 +19,5 @@ LeetCode刷题训练
 - 有趣的题目
   1. [LRU Cache](funny/LRU缓存.md)
   2. [接雨水](funny/接雨水.md)
+  3. [开关灯泡](funny/开关灯泡.md)
 
