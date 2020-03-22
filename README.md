@@ -20,4 +20,5 @@ LeetCode刷题训练
   1. [LRU Cache](funny/LRU缓存.md)
   2. [接雨水](funny/接雨水.md)
   3. [灯泡开关](funny/灯泡开关.md)
+  4. [机器人困于环中](funny/机器人困于环中.md)
 
